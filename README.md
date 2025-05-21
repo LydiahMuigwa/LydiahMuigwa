@@ -1,12 +1,10 @@
-<h1>Hi, I'm Lydiah!</h1>
-🔭 I’m currently working on: Security+ cert, an open-source SOC Playbook Simulator,and my master’s thesis. Surviving on coffee. ☕<br/> 
-🌱 Learning: OSINT workflows, social media data mining, and AI-driven threat modeling for phishing attacks.<br/> 
-📖 Current read: The Age of Surveillance Capitalism — mapping data exploitation to defense. <br/> 
-💬 Ask me about: OSINT tools, digital privacy, and security by design. <br/>  <br/> 
+<h1>Hi, I'm Lydiah!👋</h1>
 
-⚡ Fun fact:  I listen to CyberWire daily, and I never miss Hacker News or CISA’s latest alerts on Twitter. 
-</p>
-
+- I’m currently working on: Security+ cert, an open-source SOC Playbook Simulator, and my master’s thesis. Surviving on coffee. ☕
+- Learning: OSINT workflows, social media data mining, and AI-driven threat modeling for phishing attacks.-
+- Current read: The Age of Surveillance Capitalism
+- Ask me about: OSINT tools, digital privacy, and security by design.
+- Fun fact: I listen to CyberWire daily, and I never miss Hacker News or CISA’s latest alerts on Twitter.
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
