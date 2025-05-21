@@ -1,4 +1,13 @@
 <h1>Hi, I'm Lydiah!</h1>
+🔭 I’m currently working on: Security+ cert, an open-source SOC Playbook Simulator,and my master’s thesis. Surviving on coffee. ☕<br/> 
+🌱 Learning: OSINT workflows, social media data mining, and AI-driven threat modeling for phishing attacks.<br/> 
+📖 Current read: The Age of Surveillance Capitalism — mapping data exploitation to defense. <br/> 
+💬 Ask me about: OSINT tools, digital privacy, and security by design. <br/>  <br/> 
+
+⚡ Fun fact:  I listen to CyberWire daily, and I never miss Hacker News or CISA’s latest alerts on Twitter. 
+</p>
+
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -21,6 +30,11 @@
 
 - 🛡️ [Bouncing Back from a Hack: What To Do When Cybercriminals Strike](https://medium.com/@lydiahmuigua/bouncing-back-from-a-hack-what-to-do-when-cybercriminals-strike-87b6e790c398)  
   *A practical guide to recovery after a cyberattack, written for everyday users.*
+
+<h2>🎖️ Skill Badges</h2>
+<a href="https://tryhackme.com/p/2592644" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Lykah.png" alt="TryHackMe Badge" />
+</a>
 
 
 <h2> 🤳 Connect with me:</h2>
