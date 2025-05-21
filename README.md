@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lydiah!👋</h1>
 
-- I’m currently working on: Security+ cert, an open-source SOC Playbook Simulator, and my master’s thesis. Surviving on coffee. ☕
+- I’m currently working on: Security+ cert, an open-source SOC Playbook Simulator, and my master’s thesis.
 - Learning: OSINT workflows, social media data mining, and AI-driven threat modeling for phishing attacks.-
 - Current read: The Age of Surveillance Capitalism
 - Ask me about: OSINT tools, digital privacy, and security by design.
