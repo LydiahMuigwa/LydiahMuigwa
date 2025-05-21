@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Application Security & Secure Development</b>
-  - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
+  - [Secure Node.js Server with Input Validation & HTTPS](https://github.com/LydiahMuigwa/Secure-Http-Server)
   
 - <b>API Security Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
