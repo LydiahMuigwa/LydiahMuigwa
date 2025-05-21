@@ -2,9 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Application Security & Secure Development</b>
   - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
-
+  
+- <b>API Security Projects</b>
+  - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
+    
+- <b>Authentication & Authorization Systems</b>
+  - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
+    
+- <b>Secure File Uploadss</b>
+  - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
+    
 <h2>📝 Featured Medium Articles</h2>
 
 - 🔐 [Long-Term Consequences of Digital Privacy Erosion](https://medium.com/@lydiahmuigua/long-term-consequences-of-digital-privacy-erosion-3d9c1ea7d9e0)  
