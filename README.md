@@ -2,7 +2,7 @@
 
 - I’m currently working on: Security+ cert, an open-source SOC Playbook Simulator, and my master’s thesis.
 - Learning: OSINT workflows, social media data mining, and AI-driven threat modeling for phishing attacks.
-- Current read: The Age of Surveillance Capitalism
+- Current read: The Age of Surveillance Capitalism.
 - Ask me about: OSINT tools, digital privacy, and security by design.
 - Fun fact: I listen to CyberWire daily, and I never miss Hacker News or CISA’s latest alerts on Twitter.
 
@@ -25,10 +25,10 @@
 
 - <b>Digital Forensics & Malware Analysis</b>
   - [PDF Malware Analysis Lab (Static PDF Threat Discovery)](https://github.com/LydiahMuigwa/pdf-malware-analysis-lab)
-  - [Volatility vs Autopsy Memory Forensics Comparison](https://github.com/LydiahMuigwa/Algorithms-Practice)
+  - [Volatility vs Autopsy Memory Forensics Comparison](https://github.com/LydiahMuigwa/autopsy-vs-volatility)
 
 - <b> Identity, Access & Privacy Tools</b>
-  - [PEAT: Personal Exposure Analysis Tool (Social Media OSINT Scanner](https://github.com/LydiahMuigwa/Algorithms-Practice)
+  - [PEAT: Personal Exposure Analysis Tool (Social Media OSINT Scanner)](https://github.com/LydiahMuigwa/Algorithms-Practice)
     
 <h2>📝 Featured Medium Articles</h2>
 
