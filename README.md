@@ -14,7 +14,7 @@
   - [Hardened File Upload System](https://github.com/LydiahMuigwa/secure-file-upload)
   
 - <b>API Security & Testing</b>
-  - [JWT-based Login System](https://github.com/LydiahMuigwa/Algorithms-Practice)
+  - [JWT-based Login System](https://github.com/LydiahMuigwa/JWT-Authentication)
     
 - <b>Authentication & Authorization Systems</b>
   - [Deliberately Vulnerable REST API (OWASP Top 10)](https://github.com/LydiahMuigwa/Algorithms-Practice)
