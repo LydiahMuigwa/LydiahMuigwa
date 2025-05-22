@@ -12,14 +12,20 @@
 - <b>Application Security & Secure Development</b>
   - [Secure Node.js Server with Input Validation & HTTPS](https://github.com/LydiahMuigwa/Secure-Http-Server)
   
-- <b>API Security Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
+- <b>API Security & Testing</b>
+  - [JWT-based Login System](https://github.com/LydiahMuigwa/Algorithms-Practice)
     
 - <b>Authentication & Authorization Systems</b>
-  - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
+  - [Deliberately Vulnerable REST API (OWASP Top 10)](https://github.com/LydiahMuigwa/Algorithms-Practice)
     
-- <b>Secure File Uploadss</b>
-  - [Praciting DS & Algos in Python](https://github.com/LydiahMuigwa/Algorithms-Practice)
+- <b>Threat Detection & Incident Response</b>
+  - [SOC Playbook Simulator (MITRE ATT&CK + Logs)n](https://github.com/LydiahMuigwa/Algorithms-Practice)
+
+- <b>Digital Forensics & Malware Analysis</b>
+  - [Volatility vs Autopsy Memory Forensics Comparison](https://github.com/LydiahMuigwa/Algorithms-Practice)
+
+- <b> Identity, Access & Privacy Tools</b>
+  - [PEAT: Personal Exposure Analysis Tool (Social Media OSINT Scanner](https://github.com/LydiahMuigwa/Algorithms-Practice)
     
 <h2>📝 Featured Medium Articles</h2>
 
