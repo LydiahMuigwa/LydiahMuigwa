@@ -24,6 +24,7 @@
   - [SOC Playbook Simulator (MITRE ATT&CK + Logs)n](https://github.com/LydiahMuigwa/Algorithms-Practice)
 
 - <b>Digital Forensics & Malware Analysis</b>
+  - [PDF Malware Analysis Lab (Static PDF Threat Discovery)](https://github.com/LydiahMuigwa/pdf-malware-analysis-lab)
   - [Volatility vs Autopsy Memory Forensics Comparison](https://github.com/LydiahMuigwa/Algorithms-Practice)
 
 - <b> Identity, Access & Privacy Tools</b>
