@@ -10,7 +10,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Application Security & Secure Development</b>
-  - [Secure Node.js Server with Input Validation & HTTPS](https://github.com/LydiahMuigwa/Secure-Http-Server)
+  - [Secure Node.js Server: Input Validation & HTTPS](https://github.com/LydiahMuigwa/Secure-Http-Server)
+  - [Hardened File Upload System](https://github.com/LydiahMuigwa/secure-file-upload)
   
 - <b>API Security & Testing</b>
   - [JWT-based Login System](https://github.com/LydiahMuigwa/Algorithms-Practice)
