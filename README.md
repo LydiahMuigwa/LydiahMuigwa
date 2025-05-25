@@ -22,6 +22,8 @@
     
 - <b>Threat Detection & Incident Response</b>
   - [SOC Playbook Simulator (MITRE ATT&CK + Logs)n](https://github.com/LydiahMuigwa/Algorithms-Practice)
+  - Vulnerability-Management-with-Nessus Public
+Nessus vulnerability scanning covering unauthenticated vs authenticated scans, detection of EOL software, and post-remediation validation.
 
 - <b>Digital Forensics & Malware Analysis</b>
   - [PDF Malware Analysis Lab](https://github.com/LydiahMuigwa/pdf-malware-analysis-lab)
