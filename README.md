@@ -19,16 +19,16 @@
   
 - <b>API Security & Testing</b>
   - [JWT-based Login System](https://github.com/LydiahMuigwa/JWT-Authentication)
-    
-- <b>Authentication & Authorization Systems</b>
-  - [Deliberately Vulnerable REST API (OWASP Top 10)](https://github.com/LydiahMuigwa/Algorithms-Practice)
 
 - <b>Digital Forensics & Malware Analysis</b>
   - [PDF Malware Analysis Lab](https://github.com/LydiahMuigwa/pdf-malware-analysis-lab)
   - [Volatility vs Autopsy Memory Forensics Comparison](https://github.com/LydiahMuigwa/autopsy-vs-volatility)
 
 - <b> Identity, Access & Privacy Tools</b>
-  - [PEAT: Personal Exposure Analysis Tool (Social Media OSINT Scanner)](https://github.com/LydiahMuigwa/Algorithms-Practice)
+  - [PEAT: Personal Exposure Analysis Tool (Social Media OSINT Scanner)](https://github.com/LydiahMuigwa/peat-tool)
+
+- <b>Authentication & Authorization Systems</b>
+  - [Deliberately Vulnerable REST API (OWASP Top 10)](https://github.com/LydiahMuigwa/Algorithms-Practice)
     
 <h2>📝 Featured Medium Articles</h2>
 
