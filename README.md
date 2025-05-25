@@ -9,6 +9,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Threat Detection & Incident Response</b>
+  - [Vulnerability Management with Nessus](https://github.com/LydiahMuigwa/Vulnerability-Management-with-Nessus)
+
 - <b>Application Security & Secure Development</b>
   - [Hardened File Upload System](https://github.com/LydiahMuigwa/secure-file-upload)
   - [Secure Node.js Server: Input Validation & HTTPS](https://github.com/LydiahMuigwa/Secure-Http-Server)
@@ -19,10 +22,6 @@
     
 - <b>Authentication & Authorization Systems</b>
   - [Deliberately Vulnerable REST API (OWASP Top 10)](https://github.com/LydiahMuigwa/Algorithms-Practice)
-    
-- <b>Threat Detection & Incident Response</b>
-  - [SOC Playbook Simulator (MITRE ATT&CK + Logs)n](https://github.com/LydiahMuigwa/Algorithms-Practice)
-  - [Vulnerability Management with Nessus](https://github.com/LydiahMuigwa/Algorithms-Practice)
 
 - <b>Digital Forensics & Malware Analysis</b>
   - [PDF Malware Analysis Lab](https://github.com/LydiahMuigwa/pdf-malware-analysis-lab)
