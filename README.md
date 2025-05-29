@@ -6,8 +6,7 @@
 
 ## 🧭 About Me
 
-I’m a cybersecurity specialist passionate about bridging defensive engineering with privacy-aware threat detection. My work focuses on building scalable security solutions and mapping digital attack surfaces through OSINT-driven exposure analysis. I thrive at the intersection of SIEM operations and security by designing hardening APIs, hunting IOCs, or educating users on risk reduction. I’m exploring how AI can enhance threat modeling for phishing attacks while contributing to community projects that make security more accessible.
-
+I'm a cybersecurity specialist focused on SOC operations, log analysis, and threat detection. My hands-on experience includes using SIEM platforms like Splunk and Microsoft Sentinel to investigate incidents, create detection rules, and hunt for IOCs. I also research how attackers exploit public data through OSINT techniques and explore AI-driven approaches to phishing detection. My goal is to bridge the gap between defensive theory and real-world security practices.
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
