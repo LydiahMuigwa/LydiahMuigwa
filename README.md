@@ -1,10 +1,13 @@
-<h1>Hi, I'm Lydiah!👋</h1>
+<h1 align="center">👋 Hello, I'm Lydiah Muigwa</h1>
 
-- I’m currently working on: Security+ cert, an open-source SOC Playbook Simulator, and my master’s thesis.
-- Learning: OSINT workflows, social media data mining, and AI-driven threat modeling for phishing attacks.
-- Current read: The Age of Surveillance Capitalism.
-- Ask me about: OSINT tools, digital privacy, and security by design.
-- Fun fact: I listen to CyberWire daily, and I never miss Hacker News or CISA’s latest alerts on Twitter.
+<p align="center"><em>Cybersecurity Analyst | MSc Cybersecurity| Security Engineer</em></p>
+
+---
+
+## 🧭 About Me
+
+I’m a cybersecurity specialist passionate about bridging defensive engineering with privacy-aware threat detection. My work focuses on building scalable security solutions and mapping digital attack surfaces through OSINT-driven exposure analysis. I thrive at the intersection of SIEM operations and security by designing hardening APIs, hunting IOCs, or educating users on risk reduction. I’m exploring how AI can enhance threat modeling for phishing attacks while contributing to community projects that make security more accessible.
+
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
