@@ -6,7 +6,7 @@
 
 ## 🧭 About Me
 
-I'm a cybersecurity specialist focused on SOC operations, log analysis, and threat detection. My hands-on experience includes using SIEM platforms like Splunk and Microsoft Sentinel to investigate incidents, create detection rules, and hunt for IOCs. I also research how attackers exploit public data through OSINT techniques and explore AI-driven approaches to phishing detection. My goal is to bridge the gap between defensive theory and real-world security practices.
+I'm a cybersecurity specialist focused on SOC operations, threat detection, and vulnerability management. I work with SIEM platforms like Splunk and Microsoft Sentinel and tools like Nessus to investigate incidents and build detection rules. My research includes tracking how attackers weaponize public data (e.g., social media breaches) for reconnaissance and exploring AI-driven phishing detection, turning these insights into proactive defenses.
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
