@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Lydiah Muigwa</h1>
 
-<p align="center"><em>Cybersecurity Analyst | MSc Cybersecurity| Security Engineer</em></p>
+<p align="center"><em>Cybersecurity Analyst | MSc Cybersecurity | Security Engineer</em></p>
 
 ---
 
