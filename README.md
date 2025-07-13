@@ -11,6 +11,10 @@ I'm a cybersecurity specialist focused on SOC operations, threat detection, and 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
+- <b>Security Audits & Compliance</b>
+  - [Internal Security Audit: Botium Toys (NIST CSF, PCI, GDPR)](https://github.com/LydiahMuigwa/internal-security-audit-botium)
+
 - <b>Threat Detection & Incident Response</b>
   - [Vulnerability Management with Nessus](https://github.com/LydiahMuigwa/Vulnerability-Management-with-Nessus)
 
